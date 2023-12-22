@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "js": [
-        "https://github.com/bashpro/discord-chrome-extension/blob/main/public/build/bundle.js"
+        "public/build/bundle.js"
       ],
       "css":[
         "public/build/bundle.css"
