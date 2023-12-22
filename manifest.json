@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Midjourney prompt",
-  "description": "discord midjourney promtp helper",
+  "description": "discord midjourney prompt helper",
   "version": "1.0",
   "content_scripts": [
     {
