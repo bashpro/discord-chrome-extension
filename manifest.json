@@ -2,13 +2,13 @@
   "manifest_version": 3,
   "name": "Midjourney prompt",
   "description": "discord midjourney prompt helper",
-  "version": "1.0",
+  "version": "0.3.3",
   "content_scripts": [
     {
       "js": [
         "public/build/bundle.js"
       ],
-      "css":[
+      "css": [
         "public/build/bundle.css"
       ],
       "run_at": "document_end",
